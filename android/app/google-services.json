@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360261460508",
+    "project_id": "fir-bafaa",
+    "storage_bucket": "fir-bafaa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360261460508:android:8cef70f94d04447d5fb5d9",
+        "android_client_info": {
+          "package_name": "com.example.firebase_cli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIu9vN_ZVLErIE81FDMJKLQVPEdcyWPKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
